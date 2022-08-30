@@ -4,7 +4,7 @@
 
 ![project-art](/img/project-art.png)
 
-I've been interested in Tailwind for a while and I know i'm always striving to write cleaner code so in this profile card project i decided to use both. Tailwind give me more freedom that Bootstrap as i wasn't restricted to default components. The utilities mean there is much less CSS coding, it's as simple as adding extra class names. This was one of the first times i had made something that doesn't use div elements and while it's going to take some time to get used to it does look more eligant. This was made 'mobile-first' so it's completely responsive with 2 breakpoints.
+I've been interested in Tailwind for a while and I know i'm always striving to write cleaner code so in this profile card project i decided to use both. Tailwind give me more freedom that Bootstrap as i wasn't restricted to default components. The utilities mean there is much less CSS coding, it's as simple as adding extra class names. This was one of the first times i had made something that is totally semantic and doesn't use div elements and while it's going to take some time to get used to it does look more eligant. This was made 'mobile-first' so it's completely responsive with 2 breakpoints.
 
 ## Installation
 
