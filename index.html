@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    <link href="/dist/output.css" rel="stylesheet">
+    <title>Tailwind 1</title>
+</head>
+<body class="p-7 bg-gray-200 mx-auto flex justify-center w-full">
+    <article class="p-5 w-2/3 bg-white flex lg:flex-row flex-col rounded-md relative">
+        <figure class="drop-shadow-md border-zinc-900 md:justify-center">
+            <img class="lg:w-40 w-full rounded-lg pb-2" src="./img/image.jpg" alt="Profile Picture">
+            <figcaption class="text-center bg-gray-200 p-1  text-gray-600" alt="Handle">@enitdev</figcaption>
+        </figure>
+        <section class="lg:px-5 pb-10 pt-2 lg:pt-0">
+            <hgroup>
+                <h1 class="font-bold text-3xl text-black underline" alt="Name">
+                    <a href="htpps://fb.com/enitdev">Bradley Ashton</a>
+                </h1>
+                <h2 class="text-gray-500" alt="Title">
+                    Full Stack Software Developer
+                </h2>
+            </hgroup>        
+            <dl class="text-sm md:text-base">    
+                <dl class="flex pt-2" alt="Age">
+                    <dt class="font-bold pr-3">Age</dt>
+                    <dd>35 years old</dd>
+                </dl>
+                <dl class="flex" alt="Location">
+                    <dt class="font-bold pr-3">Location</dt>
+                    <dd class="flex-nowrap">Sheffield, United Kingdom</dd>
+                </dl>
+                <dl class="flex" alt="Focus">
+                    <dt class="font-bold pr-3">Focus</dt>
+                    <dd>Front End Web Development</dd>
+                </dl>
+            </dl>
+            <footer class="absolute bottom-6" alt="Socials">
+                <a class="rounded bg-blue-500 p-1.5 text-white mr-1 hover:text-gray-300" href="https://linkedin.com/in/enitdev" target="_new" alt="LinkedIn URL">LinkedIn</a>
+                <a class="rounded bg-blue-600 p-1.5 text-white mr-1 hover:text-gray-300" href="https://fb.com/enitdev" target="_new" alt="Facebook URL">Facebook</a>
+                <a class="rounded bg-gray-800 p-1.5 text-white mr-1 hover:text-gray-300" href="https://github.com/enitdev" target="_new" alt="Github URL">Github</a>
+            </footer>
+        </section>
+    </article>
+</body> 
+</html>
