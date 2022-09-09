@@ -18,4 +18,4 @@ I've been interested in Tailwind for a while and I know i'm always striving to w
 
 ## Support Me
 
-<a href="https://www.buymeacoffee.com/enitial"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/enitdev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
